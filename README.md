@@ -1,1 +1,2 @@
 # HRMS
+HRMS Lite is a lightweight full-stack Human Resource Management System built using FastAPI, PostgreSQL, and React, designed to manage employee records and track daily attendance through RESTful APIs with proper validations and error handling; the backend is powered by FastAPI with SQLAlchemy ORM and PostgreSQL for data persistence, while the frontend provides a clean and professional user interface, and the application is deployment-ready with live backend and frontend hosting for public access.
