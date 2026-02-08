@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "cd ../frontend && npm install && npm run build",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "path": "^0.12.7"
+  }
+}
