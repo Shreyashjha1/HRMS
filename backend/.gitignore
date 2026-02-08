@@ -1,0 +1,11 @@
+# Node dependencies
+node_modules/
+
+# Frontend build (optional if build is already tracked in backend)
+# build/
+
+# Logs
+npm-debug.log
+
+# Environment files
+.env
